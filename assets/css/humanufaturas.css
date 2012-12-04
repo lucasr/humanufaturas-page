@@ -57,7 +57,7 @@ h4 {
 .intro-box > .intro {
   margin-top: 100px;
   font-style: italic;
-  color: #eae4c2;
+  color: #fffced;
 }
 
 .intro-box > .intro > .autor {
@@ -77,7 +77,7 @@ h4 {
 }
 
 .faixas > .table td {
-  border-top: 1px dotted rgb(194, 214, 174) !important;
+  border-top: 1px dotted #d9d3af !important;
   vertical-align: middle;
 }
 
