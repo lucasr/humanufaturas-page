@@ -5,6 +5,7 @@ body {
   padding: 0px;
   background-image: url('../img/body-bg.jpg');
   background-repeat: repeat;
+  margin-bottom: 25px;
 }
 
 .lead {
